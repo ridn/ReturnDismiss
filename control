@@ -1,0 +1,9 @@
+Package: com.ridan.returndismiss
+Name: ReturnDismiss
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: RiDan
+Author: RiDan
+Section: Tweaks
