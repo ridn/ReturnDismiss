@@ -46,7 +46,7 @@ NSTimer* timerForReturn;
     UITouch *touch = [touches anyObject];
 	key = [[[self keyHitTest:[touch locationInView:touch.view]] name] lowercaseString];
 
-	if ([key isEqualToString:@"space-key"]) {
+	if ([key isEqualToString:@"return-key"]) {
 	isReturnKey = YES;
 
     }else{
